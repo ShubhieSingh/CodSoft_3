@@ -79,12 +79,12 @@ python Password_Generator_GUI.py
 <div align="center">
 
 ### Main Interface
-![Password Generator Interface](https://via.placeholder.com/500x750/1a1a1a/ffffff?text=Password+Generator+GUI)
+![Password Generator Interface](https://github.com/ShubhieSingh/CodSoft_3/blob/28009604b516bb585d10dbfc38398d73bde66e29/screenshots/Screenshot%202025-07-19%20231106.png)
 
 *Clean, modern interface with intuitive controls*
 
 ### Password Generation
-![Generated Password](https://via.placeholder.com/500x100/2d2d2d/00ff00?text=Generated:+Xy9#mK2$pL4@)
+![Generated Password](https://github.com/ShubhieSingh/CodSoft_3/blob/28009604b516bb585d10dbfc38398d73bde66e29/screenshots/Screenshot%202025-07-19%20231142.png)
 
 *Real-time password generation with strength indicator*
 
